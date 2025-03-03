@@ -16,7 +16,7 @@ node2vec==0.4.6
 
 ### Download:
 
-DB15K and MKG-W: https://github.com/quqxui/MMRNS
+DB15K, MKG-W and MKG-Y: https://github.com/quqxui/MMRNS
 
 textual tokens, visual tokens, node2vec tokens and deepwalk tokens：https://pan.baidu.com/s/1dY0HZKc5TQu1KhOGeECt4Q?pwd=hrp7 or https://drive.google.com/file/d/1MMtf43z4wUd_0ZzkXnaEeAhrNTlL9JV-/view?usp=drive_link
 
