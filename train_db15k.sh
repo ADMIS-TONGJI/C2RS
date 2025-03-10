@@ -8,7 +8,7 @@ max_txt_token=8
 num_layer_dec=2
 cuda_device=4
 
-CUDA_VISIBLE_DEVICES=${cuda_device} python train_rs2c.py --data ${data} --num_epoch ${num_epoch}\
+CUDA_VISIBLE_DEVICES=${cuda_device} python train_c2rs.py --data ${data} --num_epoch ${num_epoch}\
                                                         --hidden_dim ${hidden_dim} --lr ${lr} --dim ${dim}\
                                                         --max_vis_token ${max_vis_token} --max_txt_token ${max_txt_token}\
                                                         --num_layer_dec ${num_layer_dec} 
